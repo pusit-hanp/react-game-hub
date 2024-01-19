@@ -1,5 +1,5 @@
 {
-  "name": "practice-game-hub",
+  "name": "react-game-hub",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -12,6 +12,8 @@
     "@chakra-ui/react": "^2.8.2",
     "@emotion/react": "^11.11.3",
     "@emotion/styled": "^11.11.0",
+    "@tanstack/react-query": "^5.17.15",
+    "@tanstack/react-query-devtools": "^5.17.18",
     "axios": "^1.6.5",
     "framer-motion": "^10.18.0",
     "react": "^18.2.0",
